@@ -4,5 +4,5 @@ int main()
 {
 	putchar('\n');
 	printf("Hello~\n");
-	return 0;
+	printf("Party Time~\n");
 }
