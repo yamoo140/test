@@ -7,5 +7,7 @@ int main()
 	printf("Party Time~\n");
 	printf("aabdeefefwefwe\n");
 
+	printf("bye bye bye \n");
 
+	return 0;
 }
