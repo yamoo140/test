@@ -1,0 +1,5 @@
+# this is comment
+*.[oa]
+*~
+*.out
+*.bak
